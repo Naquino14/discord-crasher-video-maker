@@ -17,6 +17,7 @@ namespace DiscordCrasherVideoMaker
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.ApplicationExit += new EventHandler(delegate { new FormBacker().DisposeTemp(); }); // didnt expect this to work but it does so.... :/
             Application.Run(new MainForm());
         }
     }

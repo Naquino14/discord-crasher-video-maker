@@ -13,3 +13,4 @@ D:\CSharp Projects\discord-crasher-video-maker\DiscordCrasherVideoMaker\DiscordC
 D:\CSharp Projects\discord-crasher-video-maker\DiscordCrasherVideoMaker\DiscordCrasherVideoMaker\obj\Debug\netcoreapp3.1\DiscordCrasherVideoMaker.dll
 D:\CSharp Projects\discord-crasher-video-maker\DiscordCrasherVideoMaker\DiscordCrasherVideoMaker\obj\Debug\netcoreapp3.1\DiscordCrasherVideoMaker.pdb
 D:\CSharp Projects\discord-crasher-video-maker\DiscordCrasherVideoMaker\DiscordCrasherVideoMaker\obj\Debug\netcoreapp3.1\DiscordCrasherVideoMaker.genruntimeconfig.cache
+D:\CSharp Projects\discord-crasher-video-maker\DiscordCrasherVideoMaker\DiscordCrasherVideoMaker\obj\Debug\netcoreapp3.1\DiscordCrasherVideoMaker.Properties.Resources.resources
